@@ -1,12 +1,12 @@
 export const projectsData = [
   {
     id: "1",
-    name: "E-Commerce Book Store",
-    image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500",
+    name: "Restaurant Management System",
+    image: "https://devsramen.com/assets/img/projectPhoto-1.png",
     description:
-      "A full-featured responsive online bookstore with categorization and secure checkout.",
+      "A full-featured responsive online restaurant management system with order tracking and inventory control.",
     techStack: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
-    liveLink: "https://example.com/bookstore",
+    liveLink: "https://www.kingfood.devsramen.com/",
     githubLink: "https://github.com/username/bookstore-client",
     challenges:
       "Handling nested categories and state synchronization across multiple filters efficiently.",
@@ -15,12 +15,12 @@ export const projectsData = [
   },
   {
     id: "2",
-    name: "Network Monitoring Dashboard",
-    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=500",
+    name: "Dog and Pet Adoption Platform",
+    image: "https://devsramen.com/assets/img/projectPhoto-2.png",
     description:
       "A modern analytics dashboard for tracking network traffic, bandwidth usage, and router metrics.",
-    techStack: ["React.js", "Tailwind CSS", "Recharts", "Socket.io"],
-    liveLink: "https://example.com/netmon",
+    techStack: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
+    liveLink: "https://www.petco.devsramen.com/",
     githubLink: "https://github.com/username/netmon-client",
     challenges:
       "Managing real-time high-frequency data streams through WebSockets without losing performance.",

@@ -23,15 +23,15 @@ export default function Contact() {
             <div className="space-y-4 pt-4">
               <div className="flex items-center space-x-4">
                 <span className="text-cyan-400 font-bold">Email:</span>
-                <span className="text-slate-300">your.email@example.com</span>
+                <span className="text-slate-300">ramen@devsramen.com</span>
               </div>
               <div className="flex items-center space-x-4">
                 <span className="text-cyan-400 font-bold">Phone:</span>
-                <span className="text-slate-300">+880 17XXXXXXXX</span>
+                <span className="text-slate-300">+880 1406789393</span>
               </div>
               <div className="flex items-center space-x-4">
                 <span className="text-cyan-400 font-bold">WhatsApp:</span>
-                <span className="text-slate-300">+880 17XXXXXXXX</span>
+                <span className="text-slate-300">+880 1406789393</span>
               </div>
             </div>
           </div>

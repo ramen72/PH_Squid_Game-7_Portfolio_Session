@@ -22,10 +22,17 @@ export default function About() {
             patterns in UI interfaces.
           </p>
           <p>
-            Outside of programming, you will often find me exploring network
-            engineering configurations, playing badminton, or diving into tech
-            documentation. Balancing my life between active development and
-            personal learning keeps me energized.
+            Outside of the coding world, I have a deep passion for{" "}
+            <strong className="uppercase">gardening</strong>, specifically
+            cultivating and nurturing fruit-bearing trees and plants**. Much
+            like software development, where you write lines of code and watch a
+            complex application come to life,{" "}
+            <strong className="uppercase">gardening</strong> allows me to plant
+            a seed, tend to it with patience, and enjoy the tangible fruits of
+            my labor. It provides a perfect, refreshing balance to my
+            screen-heavy lifestyle. When I'm not in my garden, you'll find me
+            exploring network engineering configurations or staying updated with
+            tech documentations.
           </p>
         </div>
 
@@ -40,9 +47,11 @@ export default function About() {
             <div className="border-l-2 border-cyan-500 pl-4 space-y-3">
               <div>
                 <h4 className="text-slate-200 font-semibold">
-                  B.Sc. in Computer Science & Engineering
+                  MBA in Accounting
                 </h4>
-                <p className="text-sm text-slate-500">Graduation Year: 2025</p>
+                <p className="text-sm text-slate-500">
+                  Post Graduation Year: 2014
+                </p>
               </div>
             </div>
           </div>
@@ -51,10 +60,10 @@ export default function About() {
             <div className="border-l-2 border-cyan-500 pl-4 space-y-3">
               <div>
                 <h4 className="text-slate-200 font-semibold">
-                  Junior Web Developer
+                  Full-Stack Web Developer
                 </h4>
-                <p className="text-sm text-slate-400">Tech Solutions Ltd.</p>
-                <p className="text-xs text-slate-500">2025 - Present</p>
+                <p className="text-sm text-slate-400">XYZ Ltd.</p>
+                <p className="text-xs text-slate-500">2020 - Present</p>
               </div>
             </div>
           </div>
