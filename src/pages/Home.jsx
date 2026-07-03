@@ -28,6 +28,13 @@ export default function Home() {
             >
               Download Resume
             </button>
+            {/* <a
+              href="/my-resume.pdf"
+              download="My_Professional_Resume.pdf"
+              className="bg-cyan-500 hover:bg-cyan-400 text-slate-950 font-bold px-6 py-3 rounded-md transition shadow-md inline-block text-center"
+            >
+              Download Resume
+            </a> */}
             <Link
               to="/contact"
               className="border border-slate-600 hover:border-slate-400 text-white px-6 py-3 rounded-md transition"
